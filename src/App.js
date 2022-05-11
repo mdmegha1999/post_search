@@ -6,7 +6,7 @@ import User from './User';
 function App() {
   return (
     <div className="App">
-      <h1 className='head'>User-Deta</h1>
+      <h1 className='head'>Post-Data</h1>
        <User/>
        </div>
   );
